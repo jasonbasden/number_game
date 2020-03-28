@@ -16,7 +16,7 @@ while True:
         userNum = int(input("What is your number?: "))
         break
     if(ranNum == userNum):
-        print("Guessed the number!" + ranNum)
+        print("You guessed the number!" + ranNum)
         break
 
 
